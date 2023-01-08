@@ -1,3 +1,5 @@
+Esse projeto faz parte da formação da Alura de Kotlin e Spring Boot.
+
 Alguns comandos para realizar as operações dentro da API:
 
 => DELETE: /topicos/1
