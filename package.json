@@ -1,0 +1,25 @@
+{
+  "name": "api_vercell",
+  "version": "1.0.0",
+  "description": "Esse projeto faz parte da formação da Alura de Kotlin e Spring Boot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusPiske/API_REST_com_Kotlin_e_Spring_Boot_Persistencia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusPiske/API_REST_com_Kotlin_e_Spring_Boot_Persistencia/issues"
+  },
+  "homepage": "https://github.com/MatheusPiske/API_REST_com_Kotlin_e_Spring_Boot_Persistencia#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
