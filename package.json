@@ -4,7 +4,7 @@
   "description": "Esse projeto faz parte da formação da Alura de Kotlin e Spring Boot.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "vercel-build": "npm run prepare && next build"
   },
   "repository": {
     "type": "git",
